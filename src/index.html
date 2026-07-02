@@ -4,26 +4,47 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>LocaleList</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='85'>🌐</text></svg>">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons/css/flag-icons.min.css">
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
   <div class="container">
-    <h1>LocaleList</h1>
-    <div id="loader" class="loader">Loading locales…</div>
+    <header>
+      <h1>LocaleList</h1>
+      <p class="subtitle" id="subtitle">Loading…</p>
+    </header>
+
+    <div id="loader" class="loader">
+      <div class="spinner"></div>
+      <span>Loading locales…</span>
+    </div>
+
     <div id="error" class="error hidden"></div>
-    <div id="table-wrapper" class="table-wrapper hidden">
-      <table id="locales-table">
-        <thead>
-          <tr>
-            <th>Code</th>
-            <th>Language / Country</th>
-            <th>Currency / TLD</th>
-            <th>Flag</th>
-            <th>Timezone / Capital</th>
-          </tr>
-        </thead>
-        <tbody id="locales-body"></tbody>
-      </table>
+
+    <div id="content" class="content hidden">
+      <input
+        type="text"
+        id="search"
+        class="search"
+        placeholder="Поиск по коду, стране или языку"
+        autocomplete="off"
+      >
+      <div class="table-wrapper">
+        <table id="locales-table" class="locales">
+          <thead>
+            <tr>
+              <th>Flag</th>
+              <th>Code</th>
+              <th>Language</th>
+              <th>Country</th>
+              <th>Currency</th>
+              <th>TLD</th>
+            </tr>
+          </thead>
+          <tbody id="locales-body"></tbody>
+        </table>
+      </div>
     </div>
   </div>
   <script src="/app.js"></script>
