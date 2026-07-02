@@ -1,0 +1,152 @@
+[
+  {
+    "code": "en-US",
+    "language": "English",
+    "country": "United States",
+    "currency": { "code": "USD", "symbol": "$" },
+    "tld": ".us",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#fff'/><rect y='0' width='60' height='3' fill='#b22234'/><rect y='6' width='60' height='3' fill='#b22234'/><rect y='12' width='24' height='12' fill='#3c3b6e'/><rect y='12' width='60' height='3' fill='#b22234'/><rect y='18' width='60' height='3' fill='#b22234'/><rect y='24' width='60' height='3' fill='#b22234'/></svg>",
+    "timezone": "America/New_York",
+    "capital": "Washington, D.C."
+  },
+  {
+    "code": "en-GB",
+    "language": "English",
+    "country": "United Kingdom",
+    "currency": { "code": "GBP", "symbol": "£" },
+    "tld": ".uk",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#012169'/><path d='M0 0l30 15M30 0l-30 15' stroke='#fff' stroke-width='4'/><path d='M0 15h60M30 0v30' stroke='#fff' stroke-width='6'/><path d='M0 15h60M30 0v30' stroke='#c8102e' stroke-width='2'/></svg>",
+    "timezone": "Europe/London",
+    "capital": "London"
+  },
+  {
+    "code": "fr-FR",
+    "language": "French",
+    "country": "France",
+    "currency": { "code": "EUR", "symbol": "€" },
+    "tld": ".fr",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='20' height='30' fill='#002395'/><rect x='20' width='20' height='30' fill='#fff'/><rect x='40' width='20' height='30' fill='#ed2939'/></svg>",
+    "timezone": "Europe/Paris",
+    "capital": "Paris"
+  },
+  {
+    "code": "de-DE",
+    "language": "German",
+    "country": "Germany",
+    "currency": { "code": "EUR", "symbol": "€" },
+    "tld": ".de",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='10' fill='#000'/><rect y='10' width='60' height='10' fill='#dd0000'/><rect y='20' width='60' height='10' fill='#ffce00'/></svg>",
+    "timezone": "Europe/Berlin",
+    "capital": "Berlin"
+  },
+  {
+    "code": "ja-JP",
+    "language": "Japanese",
+    "country": "Japan",
+    "currency": { "code": "JPY", "symbol": "¥" },
+    "tld": ".jp",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#fff'/><circle cx='30' cy='15' r='8' fill='#bc002d'/></svg>",
+    "timezone": "Asia/Tokyo",
+    "capital": "Tokyo"
+  },
+  {
+    "code": "zh-CN",
+    "language": "Chinese",
+    "country": "China",
+    "currency": { "code": "CNY", "symbol": "¥" },
+    "tld": ".cn",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#de2910'/><path d='M12 6l2 6h6l-4.5 3.5 2 6-5.5-4-5.5 4 2-6L4 12h6z' fill='#ffde00' transform='scale(1.2) translate(-3,-1)'/><path d='M12 6l2 6h6l-4.5 3.5 2 6-5.5-4-5.5 4 2-6L4 12h6z' fill='#ffde00' transform='scale(.5) translate(6,-4)'/><path d='M12 6l2 6h6l-4.5 3.5 2 6-5.5-4-5.5 4 2-6L4 12h6z' fill='#ffde00' transform='scale(.5) translate(6,4)'/><path d='M12 6l2 6h6l-4.5 3.5 2 6-5.5-4-5.5 4 2-6L4 12h6z' fill='#ffde00' transform='scale(.5) translate(10,-3)'/></svg>",
+    "timezone": "Asia/Shanghai",
+    "capital": "Beijing"
+  },
+  {
+    "code": "ru-RU",
+    "language": "Russian",
+    "country": "Russia",
+    "currency": { "code": "RUB", "symbol": "₽" },
+    "tld": ".ru",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='10' fill='#fff'/><rect y='10' width='60' height='10' fill='#0039a6'/><rect y='20' width='60' height='10' fill='#d52b1e'/></svg>",
+    "timezone": "Europe/Moscow",
+    "capital": "Moscow"
+  },
+  {
+    "code": "es-ES",
+    "language": "Spanish",
+    "country": "Spain",
+    "currency": { "code": "EUR", "symbol": "€" },
+    "tld": ".es",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#c60b1e'/><rect y='6' width='60' height='18' fill='#ffc400'/></svg>",
+    "timezone": "Europe/Madrid",
+    "capital": "Madrid"
+  },
+  {
+    "code": "pt-BR",
+    "language": "Portuguese",
+    "country": "Brazil",
+    "currency": { "code": "BRL", "symbol": "R$" },
+    "tld": ".br",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#009739'/><polygon points='30,3 57,15 30,27 3,15' fill='#ffdf00'/><circle cx='30' cy='15' r='6' fill='#002776'/><path d='M26 15h8' stroke='#fff' stroke-width='1.5'/></svg>",
+    "timezone": "America/Sao_Paulo",
+    "capital": "Brasília"
+  },
+  {
+    "code": "ar-SA",
+    "language": "Arabic",
+    "country": "Saudi Arabia",
+    "currency": { "code": "SAR", "symbol": "﷼" },
+    "tld": ".sa",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#006c35'/><path d='M12 10l2 4 2-4v4h2v-6h-2l-2 4-2-4h-2v6h2z' fill='#fff' transform='scale(1.8) translate(6,4)'/></svg>",
+    "timezone": "Asia/Riyadh",
+    "capital": "Riyadh"
+  },
+  {
+    "code": "ko-KR",
+    "language": "Korean",
+    "country": "South Korea",
+    "currency": { "code": "KRW", "symbol": "₩" },
+    "tld": ".kr",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#fff'/><circle cx='15' cy='15' r='10' fill='#cd2e3a'/><circle cx='45' cy='15' r='10' fill='#0047a0'/></svg>",
+    "timezone": "Asia/Seoul",
+    "capital": "Seoul"
+  },
+  {
+    "code": "it-IT",
+    "language": "Italian",
+    "country": "Italy",
+    "currency": { "code": "EUR", "symbol": "€" },
+    "tld": ".it",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='20' height='30' fill='#009246'/><rect x='20' width='20' height='30' fill='#fff'/><rect x='40' width='20' height='30' fill='#ce2b37'/></svg>",
+    "timezone": "Europe/Rome",
+    "capital": "Rome"
+  },
+  {
+    "code": "nl-NL",
+    "language": "Dutch",
+    "country": "Netherlands",
+    "currency": { "code": "EUR", "symbol": "€" },
+    "tld": ".nl",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='10' fill='#ae1c28'/><rect y='10' width='60' height='10' fill='#fff'/><rect y='20' width='60' height='10' fill='#21468b'/></svg>",
+    "timezone": "Europe/Amsterdam",
+    "capital": "Amsterdam"
+  },
+  {
+    "code": "sv-SE",
+    "language": "Swedish",
+    "country": "Sweden",
+    "currency": { "code": "SEK", "symbol": "kr" },
+    "tld": ".se",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='30' fill='#005b99'/><rect x='16' width='8' height='30' fill='#fecd00'/><rect y='11' width='60' height='8' fill='#fecd00'/></svg>",
+    "timezone": "Europe/Stockholm",
+    "capital": "Stockholm"
+  },
+  {
+    "code": "en-IN",
+    "language": "English",
+    "country": "India",
+    "currency": { "code": "INR", "symbol": "₹" },
+    "tld": ".in",
+    "flag": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 30'><rect width='60' height='10' fill='#ff9933'/><rect y='10' width='60' height='10' fill='#fff'/><rect y='20' width='60' height='10' fill='#138808'/><circle cx='30' cy='15' r='4' fill='#000080'/></svg>",
+    "timezone": "Asia/Kolkata",
+    "capital": "New Delhi"
+  }
+]
