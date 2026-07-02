@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LocaleList</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>LocaleList</h1>
+    <div id="loader" class="loader">Loading locales…</div>
+    <div id="error" class="error hidden"></div>
+    <div id="table-wrapper" class="table-wrapper hidden">
+      <table id="locales-table">
+        <thead>
+          <tr>
+            <th>Code</th>
+            <th>Language / Country</th>
+            <th>Currency / TLD</th>
+            <th>Flag</th>
+            <th>Timezone / Capital</th>
+          </tr>
+        </thead>
+        <tbody id="locales-body"></tbody>
+      </table>
+    </div>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>
